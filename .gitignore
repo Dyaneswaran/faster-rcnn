@@ -1,0 +1,8 @@
+models
+serengeti
+weights
+.vscode
+.ipynb_checkpoints
+*~
+.*.sw*
+*.pyc
